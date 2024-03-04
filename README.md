@@ -1,4 +1,3 @@
 My personal website begins here!
 
-
-anshk.tech
+https://anshk.tech/
